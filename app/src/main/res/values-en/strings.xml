@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppFirstInternationalization</string>
+    <string name="message" translatable="false">"An example internationalization message in the App "</string>
+</resources>

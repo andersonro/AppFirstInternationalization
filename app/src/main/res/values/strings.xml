@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Primeiro App de Internacionalização</string>
+    <string name="message" translatable="false">Uma mensagem de exemplo de internacionalização no App</string>
+</resources>
